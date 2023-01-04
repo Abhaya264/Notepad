@@ -1,15 +1,15 @@
 <RCC>
     <qresource prefix="/icon">
-        <file>icons8-about-16.png</file>
-        <file>icons8-copy-16.png</file>
-        <file>icons8-cut-16.png</file>
-        <file>icons8-new-copy-16.png</file>
-        <file>icons8-opened-folder-16.png</file>
-        <file>icons8-opened-folder-40.png</file>
-        <file>icons8-paste-16.png</file>
-        <file>icons8-redo-16.png</file>
-        <file>icons8-save-16 (1).png</file>
-        <file>icons8-save-16.png</file>
-        <file>icons8-undo-16.png</file>
+        <file>Resources/icons/icons8-about-16.png</file>
+        <file>Resources/icons/icons8-copy-16.png</file>
+        <file>Resources/icons/icons8-cut-16.png</file>
+        <file>Resources/icons/icons8-new-copy-16.png</file>
+        <file>Resources/icons/icons8-opened-folder-16.png</file>
+        <file>Resources/icons/icons8-opened-folder-40.png</file>
+        <file>Resources/icons/icons8-paste-16.png</file>
+        <file>Resources/icons/icons8-redo-16.png</file>
+        <file>Resources/icons/icons8-save-16 (1).png</file>
+        <file>Resources/icons/icons8-save-16.png</file>
+        <file>Resources/icons/icons8-undo-16.png</file>
     </qresource>
 </RCC>
