@@ -65,7 +65,7 @@
   <action name="actionNew">
    <property name="icon">
     <iconset resource="Resources.qrc">
-     <normaloff>:/icon/icons8-new-copy-16.png</normaloff>:/icon/icons8-new-copy-16.png</iconset>
+     <normaloff>:/icon/Resources/icons/icons8-new-copy-16.png</normaloff>:/icon/Resources/icons/icons8-new-copy-16.png</iconset>
    </property>
    <property name="text">
     <string>New</string>
@@ -74,7 +74,7 @@
   <action name="actionOpen">
    <property name="icon">
     <iconset resource="Resources.qrc">
-     <normaloff>:/icon/icons8-opened-folder-16.png</normaloff>:/icon/icons8-opened-folder-16.png</iconset>
+     <normaloff>:/icon/Resources/icons/icons8-opened-folder-16.png</normaloff>:/icon/Resources/icons/icons8-opened-folder-16.png</iconset>
    </property>
    <property name="text">
     <string>Open</string>
@@ -83,7 +83,7 @@
   <action name="actionSave">
    <property name="icon">
     <iconset resource="Resources.qrc">
-     <normaloff>:/icon/icons8-save-16.png</normaloff>:/icon/icons8-save-16.png</iconset>
+     <normaloff>:/icon/Resources/icons/icons8-save-16 (1).png</normaloff>:/icon/Resources/icons/icons8-save-16 (1).png</iconset>
    </property>
    <property name="text">
     <string>Save</string>
@@ -93,6 +93,10 @@
    </property>
   </action>
   <action name="actionSave_as">
+   <property name="icon">
+    <iconset resource="Resources.qrc">
+     <normaloff>:/icon/Resources/icons/icons8-save-16.png</normaloff>:/icon/Resources/icons/icons8-save-16.png</iconset>
+   </property>
    <property name="text">
     <string>Save as ..</string>
    </property>
@@ -103,7 +107,7 @@
   <action name="actionCopy">
    <property name="icon">
     <iconset resource="Resources.qrc">
-     <normaloff>:/icon/icons8-copy-16.png</normaloff>:/icon/icons8-copy-16.png</iconset>
+     <normaloff>:/icon/Resources/icons/icons8-copy-16.png</normaloff>:/icon/Resources/icons/icons8-copy-16.png</iconset>
    </property>
    <property name="text">
     <string>Copy</string>
@@ -115,7 +119,7 @@
   <action name="actionCut">
    <property name="icon">
     <iconset resource="Resources.qrc">
-     <normaloff>:/icon/icons8-cut-16.png</normaloff>:/icon/icons8-cut-16.png</iconset>
+     <normaloff>:/icon/Resources/icons/icons8-cut-16.png</normaloff>:/icon/Resources/icons/icons8-cut-16.png</iconset>
    </property>
    <property name="text">
     <string>Cut</string>
@@ -127,7 +131,7 @@
   <action name="actionPaste">
    <property name="icon">
     <iconset resource="Resources.qrc">
-     <normaloff>:/icon/icons8-paste-16.png</normaloff>:/icon/icons8-paste-16.png</iconset>
+     <normaloff>:/icon/Resources/icons/icons8-paste-16.png</normaloff>:/icon/Resources/icons/icons8-paste-16.png</iconset>
    </property>
    <property name="text">
     <string>Paste</string>
@@ -139,7 +143,7 @@
   <action name="actionAbout_Notepad">
    <property name="icon">
     <iconset resource="Resources.qrc">
-     <normaloff>:/icon/icons8-about-16.png</normaloff>:/icon/icons8-about-16.png</iconset>
+     <normaloff>:/icon/Resources/icons/icons8-about-16.png</normaloff>:/icon/Resources/icons/icons8-about-16.png</iconset>
    </property>
    <property name="text">
     <string>About Notepad</string>
@@ -148,7 +152,7 @@
   <action name="actionUndo">
    <property name="icon">
     <iconset resource="Resources.qrc">
-     <normaloff>:/icon/icons8-undo-16.png</normaloff>:/icon/icons8-undo-16.png</iconset>
+     <normaloff>:/icon/Resources/icons/icons8-undo-16.png</normaloff>:/icon/Resources/icons/icons8-undo-16.png</iconset>
    </property>
    <property name="text">
     <string>Undo</string>
@@ -160,7 +164,7 @@
   <action name="actionRedo">
    <property name="icon">
     <iconset resource="Resources.qrc">
-     <normaloff>:/icon/icons8-redo-16.png</normaloff>:/icon/icons8-redo-16.png</iconset>
+     <normaloff>:/icon/Resources/icons/icons8-redo-16.png</normaloff>:/icon/Resources/icons/icons8-redo-16.png</iconset>
    </property>
    <property name="text">
     <string>Redo</string>
