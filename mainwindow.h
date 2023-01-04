@@ -38,5 +38,7 @@ private slots:
 
 private:
     Ui::MainWindow *ui;
+    QString file_path;
+    int flag=0;
 };
 #endif // MAINWINDOW_H
